@@ -1,0 +1,10 @@
+HTMLColumns	- Allow to use columns (table) in HTML. 
+HTMLDemo	- Just launch it to see. 
+HTMLEndFile	- writes HTML code for end of file (not necessary)
+HTMLExport	- This is the function to use.Select a method by class of object.
+HTMLInitFile	- writes the HTML header, choose backcolor. 
+HTMLInsertGraph -  no comment. 
+HTMLInsertBreak - insert a line break (tag HR). 
+HTMLReplaceNA	- Used by HTMLExport.data.frame to replace NA by '-'. 
+HTMLTitre	- Insert a title. Also used by HTMLExport for class title. 
+                       
